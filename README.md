@@ -1,10 +1,10 @@
-Task 2 Basic Firewall Configuration with UFW
+# Task 2 Basic Firewall Configuration with UFW
 
-📌 Objective
+# 📌 Objective
 This task demonstrates how to configure a basic firewall on a Linux system using UFW (Uncomplicated Firewall).
 The goal is to allow SSH traffic while denying HTTP traffic, then verify that the firewall rules are active.
 
-🛠 Tools Used
+# 🛠 Tools Used
 - UFW (Uncomplicated Firewall)
 - Virtual box (Kali Linux)
 
